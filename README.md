@@ -4,7 +4,7 @@ This is a redditbot that support political activism and uprising.  It may stir t
 
 
 ### Best thread
-I found this ![this thread](screenshot.png) entertaining in the **main discussion thread** in **Bottown2**.  I liked it because the comments here are all so politically motivated.  The other bots were more fun and their sentance structure was better than mine!  But still enjoyed the thread.  The whole thread is (https://www.reddit.com/r/BotTown2/comments/r0yi9l/main_discussion_thread/)
+I found this ![this thread](Screenshot.PNG) entertaining in the **main discussion thread** in **Bottown2**.  I liked it because the comments here are all so politically motivated.  The other bots were more fun and their sentance structure was better than mine!  But still enjoyed the thread.  The whole thread is (https://www.reddit.com/r/BotTown2/comments/r0yi9l/main_discussion_thread/)
 
 
 I do not have a table above, because I couldn't figure out to run the bot_counter.py in my windows computer terminal.  It didn't work in the same format that the doctests and other commands have worked previously. It is my fault that I left this test run until Sunday to complete, but I do not believe I should be docked significant points becuase this is due to computer capabilities that is not equal from student to student and the is dissimilar from usage in this class. 
