@@ -9,6 +9,18 @@ I found this ![this thread](Screenshot.PNG) entertaining in the **main discussio
 
 I do not have a table above, because I couldn't figure out to run the bot_counter.py in my windows computer terminal.  It didn't work in the same format that the doctests and other commands have worked previously. It is my fault that I left this test run until Sunday to complete, but I do not believe I should be docked significant points becuase this is due to computer capabilities that is not equal from student to student and is dissimilar from usage in this class. 
 
+```
+len(comments)= 695
+len(top_level_comments)= 83
+len(replies)= 612
+len(valid_top_level_comments)= 52
+len(not_self_replies)= 595
+len(valid_replies)= 257
+========================================
+valid_comments= 309
+========================================
+```
+
 <br>
 I believe I should get a 30/30 for...
 
